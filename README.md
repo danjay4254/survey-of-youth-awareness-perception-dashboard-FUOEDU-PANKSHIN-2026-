@@ -50,3 +50,15 @@ School is the Dominant Source: Formal education is by far the primary way people
 - Negligible Non-Response: Only 1 individual fell into the unlabeled "XXX" category.
 
 ### RECOMMENDATION
+
+- Launch a national public awareness campaign because, with 46% of respondents unaware of the field, there is a critical need to bridge the knowledge gap and introduce archaeology to nearly half the population.
+-  Focus on converting "Undecided" individuals into advocates because while the majority view archaeology positively (76% agree/strongly agree), engaging the 20% who are undecided is the most effective way to build a stronger, more consistent support base.
+- Implement mentorship and internship programs because 56% are willing to pursue the career; there is a high demand that needs to be nurtured through practical exposure and professional guidance to turn willingness into actual careers.
+- Modernize school curricula and increase social media presence because Schools are the dominant source of information, but social media is a strong secondary channel; leveraging both is essential to reach youth effectively.
+- Integrate archaeology into national development policy messaging because a strong majority (74% agree/strongly agree) believes in its relevance; advocates should use this mandate to lobby for government funding and policy support.
+- Develop accessible educational content to raise understanding from "Moderate" to "High because the majority of respondents rate their understanding as "Moderate" or lower, indicating that while they are aware of it, they lack deep knowledge of what the discipline actually entails.
+
+
+### LIMITATION
+- missing information from respondents
+- low participation from respondents 
